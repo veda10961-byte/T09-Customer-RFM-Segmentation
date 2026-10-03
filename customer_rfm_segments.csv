@@ -1,0 +1,427 @@
+customer_id,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,Segment,Recommended_Campaign
+CUST0001,62,2,11213.25,3,1,2,312,Needs Attention,Engagement Campaign
+CUST0002,74,3,17773.9,3,2,2,322,Needs Attention,Engagement Campaign
+CUST0004,5,4,18771.15,5,3,3,533,Potential Loyalists,Second-Purchase Campaign
+CUST0005,16,3,10371.0,4,2,2,422,Potential Loyalists,Second-Purchase Campaign
+CUST0007,3,4,38550.85,5,3,4,534,Potential Loyalists,Second-Purchase Campaign
+CUST0008,154,1,8016.3,1,1,2,112,Lost,Last-Chance Win-Back
+CUST0009,176,2,5147.1,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0010,29,6,334153.4,4,4,5,445,Champions,VIP Loyalty Campaign
+CUST0011,57,3,13119.5,3,2,2,322,Needs Attention,Engagement Campaign
+CUST0012,244,2,13181.650000000001,1,1,2,112,Lost,Last-Chance Win-Back
+CUST0013,315,1,1379.0,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0014,193,1,1736.1,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0015,282,1,2620.1,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0016,12,5,50070.7,5,3,4,534,Potential Loyalists,Second-Purchase Campaign
+CUST0017,87,2,15214.400000000001,2,1,2,212,Hibernating,Come-Back Campaign
+CUST0018,129,3,91377.25,2,2,5,225,Hibernating,Come-Back Campaign
+CUST0019,84,3,10728.849999999999,3,2,2,322,Needs Attention,Engagement Campaign
+CUST0020,84,7,30064.8,3,4,3,343,Loyal Customers,Loyalty Upgrade
+CUST0021,294,1,5157.6,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0022,144,6,55972.6,2,4,4,244,At Risk,Win-Back Campaign
+CUST0023,211,3,8913.75,1,2,2,122,Lost,Last-Chance Win-Back
+CUST0024,245,5,42140.8,1,3,4,134,At Risk,Win-Back Campaign
+CUST0025,18,2,4896.75,4,1,1,411,New / Promising,Welcome-to-Loyalty Campaign
+CUST0026,127,3,9046.85,2,2,2,222,Hibernating,Come-Back Campaign
+CUST0027,208,2,16818.2,1,1,2,112,Lost,Last-Chance Win-Back
+CUST0028,6,4,110116.0,5,3,5,535,Potential Loyalists,Second-Purchase Campaign
+CUST0029,256,2,330052.05,1,1,5,115,Hibernating,Come-Back Campaign
+CUST0030,22,6,35261.1,4,4,3,443,Loyal Customers,Loyalty Upgrade
+CUST0031,11,1,10026.6,5,1,2,512,New / Promising,Welcome-to-Loyalty Campaign
+CUST0032,54,10,69829.0,3,5,4,354,Loyal Customers,Loyalty Upgrade
+CUST0033,182,2,9075.4,1,1,2,112,Lost,Last-Chance Win-Back
+CUST0034,32,3,9069.699999999999,4,2,2,422,Potential Loyalists,Second-Purchase Campaign
+CUST0035,73,2,16228.699999999999,3,1,2,312,Needs Attention,Engagement Campaign
+CUST0036,28,26,582027.45,4,5,5,455,Champions,VIP Loyalty Campaign
+CUST0037,65,12,69918.1,3,5,4,354,Loyal Customers,Loyalty Upgrade
+CUST0039,37,10,157356.30000000002,4,5,5,455,Champions,VIP Loyalty Campaign
+CUST0040,86,9,107651.6,2,5,5,255,At Risk,Win-Back Campaign
+CUST0041,19,23,202289.5,4,5,5,455,Champions,VIP Loyalty Campaign
+CUST0042,3,3,45044.25,5,2,4,524,Potential Loyalists,Second-Purchase Campaign
+CUST0043,155,6,14453.45,1,4,2,142,Hibernating,Come-Back Campaign
+CUST0044,0,123,1250796.65,5,5,5,555,Champions,VIP Loyalty Campaign
+CUST0045,58,6,29420.2,3,4,3,343,Loyal Customers,Loyalty Upgrade
+CUST0046,46,12,236286.9,3,5,5,355,Loyal Customers,Loyalty Upgrade
+CUST0047,67,4,264427.35,3,3,5,335,Needs Attention,Engagement Campaign
+CUST0048,91,4,25506.7,2,3,3,233,At Risk,Win-Back Campaign
+CUST0049,80,4,34078.850000000006,3,3,3,333,Needs Attention,Engagement Campaign
+CUST0050,151,2,41764.1,1,1,4,114,Hibernating,Come-Back Campaign
+CUST0051,131,2,7778.4,2,1,2,212,Hibernating,Come-Back Campaign
+CUST0052,4,4,5217.55,5,3,1,531,Needs Attention,Engagement Campaign
+CUST0053,147,3,247690.4,1,2,5,125,Hibernating,Come-Back Campaign
+CUST0054,10,7,22720.2,5,4,3,543,Loyal Customers,Loyalty Upgrade
+CUST0055,12,8,26751.2,5,5,3,553,Loyal Customers,Loyalty Upgrade
+CUST0056,332,1,424.65,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0057,51,3,7823.65,3,2,2,322,Needs Attention,Engagement Campaign
+CUST0058,66,12,81489.35,3,5,4,354,Loyal Customers,Loyalty Upgrade
+CUST0059,99,5,81400.09999999999,2,3,4,234,At Risk,Win-Back Campaign
+CUST0060,98,3,14470.0,2,2,2,222,Hibernating,Come-Back Campaign
+CUST0061,148,1,102739.5,1,1,5,115,Hibernating,Come-Back Campaign
+CUST0063,31,2,12554.2,4,1,2,412,New / Promising,Welcome-to-Loyalty Campaign
+CUST0064,76,2,31842.100000000002,3,1,3,313,Needs Attention,Engagement Campaign
+CUST0065,60,3,15161.0,3,2,2,322,Needs Attention,Engagement Campaign
+CUST0066,176,2,38601.45,1,1,4,114,Hibernating,Come-Back Campaign
+CUST0067,5,6,21030.8,5,4,3,543,Loyal Customers,Loyalty Upgrade
+CUST0068,25,1,6897.0,4,1,1,411,New / Promising,Welcome-to-Loyalty Campaign
+CUST0069,170,2,11772.2,1,1,2,112,Lost,Last-Chance Win-Back
+CUST0071,66,4,16675.1,3,3,2,332,Needs Attention,Engagement Campaign
+CUST0072,13,4,35270.3,5,3,3,533,Potential Loyalists,Second-Purchase Campaign
+CUST0073,59,5,113342.05,3,3,5,335,Needs Attention,Engagement Campaign
+CUST0074,12,2,9414.0,5,1,2,512,New / Promising,Welcome-to-Loyalty Campaign
+CUST0075,5,2,5274.05,5,1,1,511,New / Promising,Welcome-to-Loyalty Campaign
+CUST0076,44,31,156513.65,3,5,5,355,Loyal Customers,Loyalty Upgrade
+CUST0077,62,6,94447.45000000001,3,4,5,345,Loyal Customers,Loyalty Upgrade
+CUST0078,115,2,2677.2,2,1,1,211,Hibernating,Come-Back Campaign
+CUST0079,1,4,54496.55,5,3,4,534,Potential Loyalists,Second-Purchase Campaign
+CUST0080,17,16,54144.45,4,5,4,454,Champions,VIP Loyalty Campaign
+CUST0081,20,15,128307.8,4,5,5,455,Champions,VIP Loyalty Campaign
+CUST0082,65,5,25305.9,3,4,3,343,Loyal Customers,Loyalty Upgrade
+CUST0083,79,5,18301.55,3,4,2,342,Needs Attention,Engagement Campaign
+CUST0084,197,1,7677.0,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0085,24,14,107305.95,4,5,5,455,Champions,VIP Loyalty Campaign
+CUST0086,22,6,75088.1,4,4,4,444,Champions,VIP Loyalty Campaign
+CUST0087,7,7,35691.55,5,4,3,543,Loyal Customers,Loyalty Upgrade
+CUST0089,54,2,11205.1,3,1,2,312,Needs Attention,Engagement Campaign
+CUST0090,154,1,5640.6,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0091,82,3,40007.1,3,2,4,324,Needs Attention,Engagement Campaign
+CUST0092,0,5,144422.45,5,4,5,545,Champions,VIP Loyalty Campaign
+CUST0093,79,4,30135.85,3,3,3,333,Needs Attention,Engagement Campaign
+CUST0094,64,8,66924.2,3,5,4,354,Loyal Customers,Loyalty Upgrade
+CUST0095,14,3,42801.8,4,2,4,424,Potential Loyalists,Second-Purchase Campaign
+CUST0096,4,2,32387.2,5,1,3,513,New / Promising,Welcome-to-Loyalty Campaign
+CUST0097,0,10,71664.45,5,5,4,554,Champions,VIP Loyalty Campaign
+CUST0098,244,1,2191.65,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0100,12,2,3563.1,5,1,1,511,New / Promising,Welcome-to-Loyalty Campaign
+CUST0101,157,3,6450.9,1,2,1,121,Lost,Last-Chance Win-Back
+CUST0102,4,10,37096.85,5,5,3,553,Loyal Customers,Loyalty Upgrade
+CUST0103,208,3,7588.400000000001,1,2,1,121,Lost,Last-Chance Win-Back
+CUST0104,15,6,27494.75,4,4,3,443,Loyal Customers,Loyalty Upgrade
+CUST0105,13,1,5505.3,5,1,1,511,New / Promising,Welcome-to-Loyalty Campaign
+CUST0106,13,5,48532.2,5,4,4,544,Champions,VIP Loyalty Campaign
+CUST0107,153,2,16788.4,1,1,2,112,Lost,Last-Chance Win-Back
+CUST0108,97,3,12319.25,2,2,2,222,Hibernating,Come-Back Campaign
+CUST0109,99,5,27255.6,2,4,3,243,At Risk,Win-Back Campaign
+CUST0110,32,2,9038.0,4,1,2,412,New / Promising,Welcome-to-Loyalty Campaign
+CUST0111,198,5,10150.7,1,4,2,142,Hibernating,Come-Back Campaign
+CUST0112,69,1,2695.2,3,1,1,311,Needs Attention,Engagement Campaign
+CUST0113,102,6,29257.3,2,4,3,243,At Risk,Win-Back Campaign
+CUST0114,112,5,31581.5,2,4,3,243,At Risk,Win-Back Campaign
+CUST0115,56,4,425924.4,3,3,5,335,Needs Attention,Engagement Campaign
+CUST0116,237,2,40398.8,1,1,4,114,Hibernating,Come-Back Campaign
+CUST0117,221,3,5039.05,1,2,1,121,Lost,Last-Chance Win-Back
+CUST0118,297,2,6566.1,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0119,26,7,44847.1,4,4,4,444,Champions,VIP Loyalty Campaign
+CUST0120,61,4,25910.2,3,3,3,333,Needs Attention,Engagement Campaign
+CUST0121,62,3,79644.09999999999,3,2,4,324,Needs Attention,Engagement Campaign
+CUST0122,11,2,3848.6000000000004,5,1,1,511,New / Promising,Welcome-to-Loyalty Campaign
+CUST0123,219,5,49427.65,1,4,4,144,At Risk,Win-Back Campaign
+CUST0124,181,2,17215.2,1,1,2,112,Lost,Last-Chance Win-Back
+CUST0125,20,2,9488.7,4,1,2,412,New / Promising,Welcome-to-Loyalty Campaign
+CUST0126,48,10,38501.1,3,5,4,354,Loyal Customers,Loyalty Upgrade
+CUST0127,79,2,29529.9,3,1,3,313,Needs Attention,Engagement Campaign
+CUST0128,51,8,73378.3,3,5,4,354,Loyal Customers,Loyalty Upgrade
+CUST0129,58,5,28642.7,3,4,3,343,Loyal Customers,Loyalty Upgrade
+CUST0130,66,2,13079.599999999999,3,1,2,312,Needs Attention,Engagement Campaign
+CUST0131,271,1,870.2,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0132,41,5,23568.1,4,4,3,443,Loyal Customers,Loyalty Upgrade
+CUST0133,97,3,20469.15,2,2,3,223,Hibernating,Come-Back Campaign
+CUST0134,107,1,4118.0,2,1,1,211,Hibernating,Come-Back Campaign
+CUST0135,50,8,35727.6,3,5,3,353,Loyal Customers,Loyalty Upgrade
+CUST0136,129,3,11826.65,2,2,2,222,Hibernating,Come-Back Campaign
+CUST0137,146,2,4269.75,2,1,1,211,Hibernating,Come-Back Campaign
+CUST0138,26,5,287894.25,4,4,5,445,Champions,VIP Loyalty Campaign
+CUST0139,31,4,13936.95,4,3,2,432,Potential Loyalists,Second-Purchase Campaign
+CUST0140,5,16,123579.0,5,5,5,555,Champions,VIP Loyalty Campaign
+CUST0141,50,11,178759.35,3,5,5,355,Loyal Customers,Loyalty Upgrade
+CUST0142,148,5,48573.200000000004,1,4,4,144,At Risk,Win-Back Campaign
+CUST0143,24,7,27709.85,4,4,3,443,Loyal Customers,Loyalty Upgrade
+CUST0144,202,3,6345.55,1,2,1,121,Lost,Last-Chance Win-Back
+CUST0145,117,7,112619.8,2,4,5,245,At Risk,Win-Back Campaign
+CUST0146,151,3,336905.19999999995,1,2,5,125,Hibernating,Come-Back Campaign
+CUST0147,108,2,11532.6,2,1,2,212,Hibernating,Come-Back Campaign
+CUST0148,81,7,13891.1,3,4,2,342,Needs Attention,Engagement Campaign
+CUST0149,111,2,4199.4,2,2,1,221,Hibernating,Come-Back Campaign
+CUST0150,216,2,19800.850000000002,1,2,3,123,Hibernating,Come-Back Campaign
+CUST0152,219,1,6078.0,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0153,6,5,16868.75,5,4,2,542,Potential Loyalists,Second-Purchase Campaign
+CUST0154,49,2,886.6,3,2,1,321,Needs Attention,Engagement Campaign
+CUST0155,31,2,12522.3,4,2,2,422,Potential Loyalists,Second-Purchase Campaign
+CUST0156,208,5,441704.9,1,4,5,145,At Risk,Win-Back Campaign
+CUST0157,49,5,45508.05,3,4,4,344,Loyal Customers,Loyalty Upgrade
+CUST0158,5,14,386708.75,5,5,5,555,Champions,VIP Loyalty Campaign
+CUST0159,123,6,57988.6,2,4,4,244,At Risk,Win-Back Campaign
+CUST0160,122,5,508752.55,2,4,5,245,At Risk,Win-Back Campaign
+CUST0161,28,5,46497.75,4,4,4,444,Champions,VIP Loyalty Campaign
+CUST0162,4,4,9780.8,5,3,2,532,Potential Loyalists,Second-Purchase Campaign
+CUST0163,246,1,2199.0,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0164,7,7,136796.4,5,4,5,545,Champions,VIP Loyalty Campaign
+CUST0165,2,3,22903.0,5,2,3,523,Potential Loyalists,Second-Purchase Campaign
+CUST0166,25,3,22894.4,4,2,3,423,Potential Loyalists,Second-Purchase Campaign
+CUST0167,13,1,996.0,5,1,1,511,New / Promising,Welcome-to-Loyalty Campaign
+CUST0168,61,7,47305.5,3,4,4,344,Loyal Customers,Loyalty Upgrade
+CUST0169,1,9,192992.95,5,5,5,555,Champions,VIP Loyalty Campaign
+CUST0170,313,1,6805.95,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0171,6,3,8726.15,5,2,2,522,Potential Loyalists,Second-Purchase Campaign
+CUST0172,277,2,3116.3,1,2,1,121,Lost,Last-Chance Win-Back
+CUST0173,249,3,36577.55,1,2,3,123,Hibernating,Come-Back Campaign
+CUST0174,27,6,72707.05,4,4,4,444,Champions,VIP Loyalty Campaign
+CUST0175,28,25,142145.4,4,5,5,455,Champions,VIP Loyalty Campaign
+CUST0176,1,168,1539098.4,5,5,5,555,Champions,VIP Loyalty Campaign
+CUST0177,47,5,38191.1,3,4,4,344,Loyal Customers,Loyalty Upgrade
+CUST0178,19,13,220705.3,4,5,5,455,Champions,VIP Loyalty Campaign
+CUST0179,62,5,83933.65,3,4,5,345,Loyal Customers,Loyalty Upgrade
+CUST0180,130,5,38834.9,2,4,4,244,At Risk,Win-Back Campaign
+CUST0181,97,9,83020.6,2,5,4,254,At Risk,Win-Back Campaign
+CUST0182,298,1,10396.0,1,1,2,112,Lost,Last-Chance Win-Back
+CUST0183,73,8,61484.3,3,5,4,354,Loyal Customers,Loyalty Upgrade
+CUST0184,91,5,41535.25,2,4,4,244,At Risk,Win-Back Campaign
+CUST0185,56,5,26927.8,3,4,3,343,Loyal Customers,Loyalty Upgrade
+CUST0186,8,10,53634.1,5,5,4,554,Champions,VIP Loyalty Campaign
+CUST0187,7,3,40621.15,5,2,4,524,Potential Loyalists,Second-Purchase Campaign
+CUST0188,168,4,249357.8,1,3,5,135,At Risk,Win-Back Campaign
+CUST0189,54,3,18728.65,3,2,3,323,Needs Attention,Engagement Campaign
+CUST0190,184,3,6345.1,1,2,1,121,Lost,Last-Chance Win-Back
+CUST0191,44,2,9798.6,3,2,2,322,Needs Attention,Engagement Campaign
+CUST0192,62,4,47743.6,3,3,4,334,Needs Attention,Engagement Campaign
+CUST0193,78,3,23178.75,3,2,3,323,Needs Attention,Engagement Campaign
+CUST0194,68,8,172401.8,3,5,5,355,Loyal Customers,Loyalty Upgrade
+CUST0195,85,1,448.2,2,1,1,211,Hibernating,Come-Back Campaign
+CUST0196,20,3,27627.2,4,2,3,423,Potential Loyalists,Second-Purchase Campaign
+CUST0197,152,3,32160.300000000003,1,2,3,123,Hibernating,Come-Back Campaign
+CUST0198,7,6,47397.6,5,4,4,544,Champions,VIP Loyalty Campaign
+CUST0199,41,13,80001.65,4,5,4,454,Champions,VIP Loyalty Campaign
+CUST0200,2,3,82599.45000000001,5,2,4,524,Potential Loyalists,Second-Purchase Campaign
+CUST0201,128,2,4188.9,2,2,1,221,Hibernating,Come-Back Campaign
+CUST0202,6,5,18454.9,5,4,2,542,Potential Loyalists,Second-Purchase Campaign
+CUST0203,292,3,8457.6,1,2,2,122,Lost,Last-Chance Win-Back
+CUST0204,1,6,23888.85,5,4,3,543,Loyal Customers,Loyalty Upgrade
+CUST0205,105,4,23742.850000000002,2,3,3,233,At Risk,Win-Back Campaign
+CUST0207,136,1,2316.1,2,1,1,211,Hibernating,Come-Back Campaign
+CUST0208,108,5,22050.35,2,4,3,243,At Risk,Win-Back Campaign
+CUST0209,67,3,4692.0,3,3,1,331,Needs Attention,Engagement Campaign
+CUST0210,15,28,197107.4,4,5,5,455,Champions,VIP Loyalty Campaign
+CUST0211,86,3,4302.25,2,3,1,231,Hibernating,Come-Back Campaign
+CUST0212,21,2,12415.2,4,2,2,422,Potential Loyalists,Second-Purchase Campaign
+CUST0213,318,1,1187.1,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0214,76,9,32944.399999999994,3,5,3,353,Loyal Customers,Loyalty Upgrade
+CUST0215,175,1,4336.2,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0216,8,2,11037.599999999999,5,2,2,522,Potential Loyalists,Second-Purchase Campaign
+CUST0217,69,2,17133.3,3,2,2,322,Needs Attention,Engagement Campaign
+CUST0219,155,1,16250.3,1,1,2,112,Lost,Last-Chance Win-Back
+CUST0220,55,2,2049.4,3,2,1,321,Needs Attention,Engagement Campaign
+CUST0221,25,11,46121.850000000006,4,5,4,454,Champions,VIP Loyalty Campaign
+CUST0222,2,16,192642.3,5,5,5,555,Champions,VIP Loyalty Campaign
+CUST0223,125,2,104119.0,2,2,5,225,Hibernating,Come-Back Campaign
+CUST0224,31,3,14356.1,4,3,2,432,Potential Loyalists,Second-Purchase Campaign
+CUST0225,14,2,29414.0,4,2,3,423,Potential Loyalists,Second-Purchase Campaign
+CUST0226,12,6,138843.1,5,4,5,545,Champions,VIP Loyalty Campaign
+CUST0227,71,2,14490.4,3,2,2,322,Needs Attention,Engagement Campaign
+CUST0228,13,7,35155.4,5,5,3,553,Loyal Customers,Loyalty Upgrade
+CUST0229,151,1,8356.2,1,1,2,112,Lost,Last-Chance Win-Back
+CUST0230,96,3,6384.55,2,3,1,231,Hibernating,Come-Back Campaign
+CUST0231,3,5,29719.699999999997,5,4,3,543,Loyal Customers,Loyalty Upgrade
+CUST0232,69,7,25277.35,3,5,3,353,Loyal Customers,Loyalty Upgrade
+CUST0233,267,1,7204.6,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0234,7,11,104139.3,5,5,5,555,Champions,VIP Loyalty Campaign
+CUST0235,246,2,71773.90000000001,1,2,4,124,Hibernating,Come-Back Campaign
+CUST0236,297,1,1108.65,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0237,103,5,17150.45,2,4,2,242,Hibernating,Come-Back Campaign
+CUST0238,54,1,2905.1,3,1,1,311,Needs Attention,Engagement Campaign
+CUST0239,109,2,11992.4,2,2,2,222,Hibernating,Come-Back Campaign
+CUST0240,4,2,51628.4,5,2,4,524,Potential Loyalists,Second-Purchase Campaign
+CUST0241,133,3,32403.7,2,3,3,233,At Risk,Win-Back Campaign
+CUST0242,0,3,8276.45,5,3,2,532,Potential Loyalists,Second-Purchase Campaign
+CUST0243,191,1,2036.0,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0245,3,2,14356.1,5,2,2,522,Potential Loyalists,Second-Purchase Campaign
+CUST0246,122,1,5377.95,2,1,1,211,Hibernating,Come-Back Campaign
+CUST0247,22,8,177419.1,4,5,5,455,Champions,VIP Loyalty Campaign
+CUST0248,18,6,28984.8,4,4,3,443,Loyal Customers,Loyalty Upgrade
+CUST0249,354,1,1868.4,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0250,77,3,151969.55,3,3,5,335,Needs Attention,Engagement Campaign
+CUST0251,20,2,8450.25,4,2,2,422,Potential Loyalists,Second-Purchase Campaign
+CUST0252,15,12,100143.4,4,5,5,455,Champions,VIP Loyalty Campaign
+CUST0253,7,10,122217.15000000001,5,5,5,555,Champions,VIP Loyalty Campaign
+CUST0254,145,7,35978.0,2,5,3,253,At Risk,Win-Back Campaign
+CUST0255,20,13,206073.3,4,5,5,455,Champions,VIP Loyalty Campaign
+CUST0257,13,8,239855.2,5,5,5,555,Champions,VIP Loyalty Campaign
+CUST0258,94,9,384316.05,2,5,5,255,At Risk,Win-Back Campaign
+CUST0259,63,7,46179.25,3,5,4,354,Loyal Customers,Loyalty Upgrade
+CUST0260,9,3,6523.4,5,3,1,531,Needs Attention,Engagement Campaign
+CUST0261,91,3,29326.7,2,3,3,233,At Risk,Win-Back Campaign
+CUST0262,167,4,14916.65,1,3,2,132,Hibernating,Come-Back Campaign
+CUST0263,324,1,966.15,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0264,109,2,8641.65,2,2,2,222,Hibernating,Come-Back Campaign
+CUST0265,11,19,170795.45,5,5,5,555,Champions,VIP Loyalty Campaign
+CUST0266,78,2,16664.65,3,2,2,322,Needs Attention,Engagement Campaign
+CUST0267,50,4,10836.8,3,3,2,332,Needs Attention,Engagement Campaign
+CUST0268,279,2,5796.2,1,2,1,121,Lost,Last-Chance Win-Back
+CUST0269,134,1,16522.3,2,1,2,212,Hibernating,Come-Back Campaign
+CUST0270,8,5,130024.40000000001,5,4,5,545,Champions,VIP Loyalty Campaign
+CUST0271,7,3,23518.7,5,3,3,533,Potential Loyalists,Second-Purchase Campaign
+CUST0272,127,3,2704.5,2,3,1,231,Hibernating,Come-Back Campaign
+CUST0273,13,6,26285.55,5,4,3,543,Loyal Customers,Loyalty Upgrade
+CUST0274,6,9,345252.85,5,5,5,555,Champions,VIP Loyalty Campaign
+CUST0275,19,9,53587.700000000004,4,5,4,454,Champions,VIP Loyalty Campaign
+CUST0276,102,7,80797.05,2,5,4,254,At Risk,Win-Back Campaign
+CUST0277,39,3,117445.90000000001,4,3,5,435,Potential Loyalists,Second-Purchase Campaign
+CUST0278,1,4,15447.9,5,3,2,532,Potential Loyalists,Second-Purchase Campaign
+CUST0279,37,5,24101.649999999998,4,4,3,443,Loyal Customers,Loyalty Upgrade
+CUST0280,48,7,202797.0,3,5,5,355,Loyal Customers,Loyalty Upgrade
+CUST0281,4,8,103922.90000000001,5,5,5,555,Champions,VIP Loyalty Campaign
+CUST0282,28,4,23177.9,4,3,3,433,Potential Loyalists,Second-Purchase Campaign
+CUST0283,221,2,6826.95,1,2,1,121,Lost,Last-Chance Win-Back
+CUST0284,45,9,48119.65,3,5,4,354,Loyal Customers,Loyalty Upgrade
+CUST0285,208,1,2056.15,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0286,29,7,143848.35,4,5,5,455,Champions,VIP Loyalty Campaign
+CUST0287,6,6,289258.5,5,4,5,545,Champions,VIP Loyalty Campaign
+CUST0288,33,3,20361.95,4,3,3,433,Potential Loyalists,Second-Purchase Campaign
+CUST0289,17,9,74174.8,4,5,4,454,Champions,VIP Loyalty Campaign
+CUST0290,17,2,4427.0,4,2,1,421,New / Promising,Welcome-to-Loyalty Campaign
+CUST0291,2,57,450053.45,5,5,5,555,Champions,VIP Loyalty Campaign
+CUST0292,268,1,7647.0,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0293,9,6,41413.05,5,4,4,544,Champions,VIP Loyalty Campaign
+CUST0295,121,4,340345.5,2,3,5,235,At Risk,Win-Back Campaign
+CUST0296,7,1,3149.0,5,1,1,511,New / Promising,Welcome-to-Loyalty Campaign
+CUST0297,87,5,14082.8,2,4,2,242,Hibernating,Come-Back Campaign
+CUST0298,92,6,63515.5,2,4,4,244,At Risk,Win-Back Campaign
+CUST0299,4,4,9307.550000000001,5,3,2,532,Potential Loyalists,Second-Purchase Campaign
+CUST0300,130,6,74992.15,2,4,4,244,At Risk,Win-Back Campaign
+CUST0301,27,4,32884.95,4,3,3,433,Potential Loyalists,Second-Purchase Campaign
+CUST0302,236,3,27943.35,1,3,3,133,At Risk,Win-Back Campaign
+CUST0303,252,3,117579.84999999999,1,3,5,135,At Risk,Win-Back Campaign
+CUST0304,71,2,2602.95,3,2,1,321,Needs Attention,Engagement Campaign
+CUST0305,126,3,17793.350000000002,2,3,2,232,Hibernating,Come-Back Campaign
+CUST0306,108,2,20065.05,2,2,3,223,Hibernating,Come-Back Campaign
+CUST0307,298,2,6070.6,1,2,1,121,Lost,Last-Chance Win-Back
+CUST0308,35,2,5297.1,4,2,1,421,New / Promising,Welcome-to-Loyalty Campaign
+CUST0309,93,4,45106.799999999996,2,3,4,234,At Risk,Win-Back Campaign
+CUST0310,19,7,75469.65,4,5,4,454,Champions,VIP Loyalty Campaign
+CUST0311,67,6,44866.65,3,4,4,344,Loyal Customers,Loyalty Upgrade
+CUST0315,69,5,83514.7,3,4,5,345,Loyal Customers,Loyalty Upgrade
+CUST0316,15,5,28234.200000000004,4,4,3,443,Loyal Customers,Loyalty Upgrade
+CUST0317,31,5,38641.9,4,4,4,444,Champions,VIP Loyalty Campaign
+CUST0318,55,3,7180.35,3,3,1,331,Needs Attention,Engagement Campaign
+CUST0319,132,1,106763.4,2,1,5,215,Hibernating,Come-Back Campaign
+CUST0320,175,5,17033.9,1,4,2,142,Hibernating,Come-Back Campaign
+CUST0321,302,1,187046.1,1,1,5,115,Hibernating,Come-Back Campaign
+CUST0322,55,8,70717.15,3,5,4,354,Loyal Customers,Loyalty Upgrade
+CUST0323,18,5,23225.800000000003,4,4,3,443,Loyal Customers,Loyalty Upgrade
+CUST0324,20,24,280389.75,4,5,5,455,Champions,VIP Loyalty Campaign
+CUST0325,64,1,154874.4,3,1,5,315,Needs Attention,Engagement Campaign
+CUST0326,271,2,23717.1,1,2,3,123,Hibernating,Come-Back Campaign
+CUST0327,96,2,38950.0,2,2,4,224,Hibernating,Come-Back Campaign
+CUST0328,143,1,14512.2,2,1,2,212,Hibernating,Come-Back Campaign
+CUST0329,44,2,10404.9,3,2,2,322,Needs Attention,Engagement Campaign
+CUST0330,85,8,41533.5,2,5,4,254,At Risk,Win-Back Campaign
+CUST0331,31,4,24704.7,4,3,3,433,Potential Loyalists,Second-Purchase Campaign
+CUST0332,37,7,69228.1,4,5,4,454,Champions,VIP Loyalty Campaign
+CUST0333,119,4,12890.55,2,3,2,232,Hibernating,Come-Back Campaign
+CUST0334,31,1,3094.2,4,1,1,411,New / Promising,Welcome-to-Loyalty Campaign
+CUST0335,64,2,4811.75,3,2,1,321,Needs Attention,Engagement Campaign
+CUST0336,5,33,384104.1,5,5,5,555,Champions,VIP Loyalty Campaign
+CUST0337,146,7,25956.55,2,5,3,253,At Risk,Win-Back Campaign
+CUST0338,84,5,20006.6,2,4,3,243,At Risk,Win-Back Campaign
+CUST0340,18,4,71070.9,4,3,4,434,Potential Loyalists,Second-Purchase Campaign
+CUST0341,100,1,4869.6,2,1,1,211,Hibernating,Come-Back Campaign
+CUST0342,245,1,5126.2,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0343,76,4,25408.100000000002,3,3,3,333,Needs Attention,Engagement Campaign
+CUST0344,340,1,2024.1,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0345,18,8,84368.1,4,5,5,455,Champions,VIP Loyalty Campaign
+CUST0346,18,5,63192.8,4,4,4,444,Champions,VIP Loyalty Campaign
+CUST0347,98,6,20209.85,2,4,3,243,At Risk,Win-Back Campaign
+CUST0348,104,2,7465.5,2,2,1,221,Hibernating,Come-Back Campaign
+CUST0349,104,3,13697.55,2,3,2,232,Hibernating,Come-Back Campaign
+CUST0350,4,7,95417.75000000001,5,5,5,555,Champions,VIP Loyalty Campaign
+CUST0351,22,5,15912.0,4,4,2,442,Potential Loyalists,Second-Purchase Campaign
+CUST0352,20,3,25286.95,4,3,3,433,Potential Loyalists,Second-Purchase Campaign
+CUST0353,18,3,32850.95,4,3,3,433,Potential Loyalists,Second-Purchase Campaign
+CUST0354,32,2,2027.55,4,2,1,421,New / Promising,Welcome-to-Loyalty Campaign
+CUST0355,5,10,42872.15,5,5,4,554,Champions,VIP Loyalty Campaign
+CUST0356,82,2,232085.0,3,2,5,325,Needs Attention,Engagement Campaign
+CUST0358,3,4,57055.6,5,3,4,534,Potential Loyalists,Second-Purchase Campaign
+CUST0359,108,4,34751.65,2,3,3,233,At Risk,Win-Back Campaign
+CUST0360,56,12,142111.65,3,5,5,355,Loyal Customers,Loyalty Upgrade
+CUST0362,17,5,205228.45,4,4,5,445,Champions,VIP Loyalty Campaign
+CUST0363,14,11,122359.25,4,5,5,455,Champions,VIP Loyalty Campaign
+CUST0364,81,5,31693.649999999998,3,4,3,343,Loyal Customers,Loyalty Upgrade
+CUST0366,69,4,19985.15,3,3,3,333,Needs Attention,Engagement Campaign
+CUST0367,8,3,46328.35,5,3,4,534,Potential Loyalists,Second-Purchase Campaign
+CUST0368,145,4,82011.2,2,3,4,234,At Risk,Win-Back Campaign
+CUST0369,112,3,7114.6,2,3,1,231,Hibernating,Come-Back Campaign
+CUST0370,5,1,4306.95,5,1,1,511,New / Promising,Welcome-to-Loyalty Campaign
+CUST0371,0,5,33434.15,5,4,3,543,Loyal Customers,Loyalty Upgrade
+CUST0372,4,6,47320.6,5,4,4,544,Champions,VIP Loyalty Campaign
+CUST0373,82,6,81584.4,3,4,4,344,Loyal Customers,Loyalty Upgrade
+CUST0374,200,1,569.0,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0375,19,5,80578.45,4,4,4,444,Champions,VIP Loyalty Campaign
+CUST0376,110,5,22299.0,2,4,3,243,At Risk,Win-Back Campaign
+CUST0377,0,2,17119.65,5,2,2,522,Potential Loyalists,Second-Purchase Campaign
+CUST0378,93,3,13145.65,2,3,2,232,Hibernating,Come-Back Campaign
+CUST0379,1,3,7431.1,5,3,1,531,Needs Attention,Engagement Campaign
+CUST0380,21,5,16227.4,4,4,2,442,Potential Loyalists,Second-Purchase Campaign
+CUST0382,11,47,358954.9,5,5,5,555,Champions,VIP Loyalty Campaign
+CUST0383,9,14,320250.85000000003,5,5,5,555,Champions,VIP Loyalty Campaign
+CUST0384,36,3,34052.6,4,3,3,433,Potential Loyalists,Second-Purchase Campaign
+CUST0385,67,2,26904.45,3,2,3,323,Needs Attention,Engagement Campaign
+CUST0386,6,6,49142.4,5,4,4,544,Champions,VIP Loyalty Campaign
+CUST0387,0,514,6389543.5,5,5,5,555,Champions,VIP Loyalty Campaign
+CUST0388,52,4,7201.4,3,3,1,331,Needs Attention,Engagement Campaign
+CUST0390,122,7,66268.1,2,5,4,254,At Risk,Win-Back Campaign
+CUST0391,56,7,25069.25,3,5,3,353,Loyal Customers,Loyalty Upgrade
+CUST0392,127,4,2122.7,2,3,1,231,Hibernating,Come-Back Campaign
+CUST0393,26,3,8433.2,4,3,2,432,Potential Loyalists,Second-Purchase Campaign
+CUST0394,165,2,5520.75,1,2,1,121,Lost,Last-Chance Win-Back
+CUST0395,81,3,8720.2,3,3,2,332,Needs Attention,Engagement Campaign
+CUST0396,165,2,96413.5,1,2,5,125,Hibernating,Come-Back Campaign
+CUST0397,8,30,149919.35,5,5,5,555,Champions,VIP Loyalty Campaign
+CUST0398,10,32,462416.60000000003,5,5,5,555,Champions,VIP Loyalty Campaign
+CUST0399,158,3,9748.5,1,3,2,132,Hibernating,Come-Back Campaign
+CUST0400,35,5,46307.95,4,4,4,444,Champions,VIP Loyalty Campaign
+CUST0401,19,4,61317.350000000006,4,3,4,434,Potential Loyalists,Second-Purchase Campaign
+CUST0402,144,3,38369.7,2,3,4,234,At Risk,Win-Back Campaign
+CUST0403,21,4,10705.05,4,3,2,432,Potential Loyalists,Second-Purchase Campaign
+CUST0404,203,1,2770.2,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0405,271,2,3395.95,1,2,1,121,Lost,Last-Chance Win-Back
+CUST0406,7,31,226773.55,5,5,5,555,Champions,VIP Loyalty Campaign
+CUST0407,213,1,5760.45,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0408,105,1,1239.0,2,1,1,211,Hibernating,Come-Back Campaign
+CUST0409,85,4,66521.7,2,3,4,234,At Risk,Win-Back Campaign
+CUST0410,58,4,19112.6,3,3,3,333,Needs Attention,Engagement Campaign
+CUST0411,24,17,66253.65,4,5,4,454,Champions,VIP Loyalty Campaign
+CUST0412,2,3,26478.850000000002,5,3,3,533,Potential Loyalists,Second-Purchase Campaign
+CUST0413,202,2,65654.0,1,2,4,124,Hibernating,Come-Back Campaign
+CUST0414,22,6,25125.0,4,4,3,443,Loyal Customers,Loyalty Upgrade
+CUST0415,123,9,20247.05,2,5,3,253,At Risk,Win-Back Campaign
+CUST0416,124,4,41215.100000000006,2,3,4,234,At Risk,Win-Back Campaign
+CUST0417,223,2,3445.55,1,2,1,121,Lost,Last-Chance Win-Back
+CUST0418,24,5,19014.0,4,4,3,443,Loyal Customers,Loyalty Upgrade
+CUST0419,12,5,26033.3,5,4,3,543,Loyal Customers,Loyalty Upgrade
+CUST0420,11,4,8067.799999999999,5,3,2,532,Potential Loyalists,Second-Purchase Campaign
+CUST0421,19,10,289855.55,4,5,5,455,Champions,VIP Loyalty Campaign
+CUST0423,155,3,142096.35,1,3,5,135,At Risk,Win-Back Campaign
+CUST0424,273,4,20364.8,1,3,3,133,At Risk,Win-Back Campaign
+CUST0425,100,3,21198.65,2,3,3,233,At Risk,Win-Back Campaign
+CUST0426,54,2,77933.2,3,2,4,324,Needs Attention,Engagement Campaign
+CUST0427,268,2,9299.1,1,2,2,122,Lost,Last-Chance Win-Back
+CUST0428,76,2,6809.15,3,2,1,321,Needs Attention,Engagement Campaign
+CUST0429,310,2,9715.300000000001,1,2,2,122,Lost,Last-Chance Win-Back
+CUST0430,21,5,38598.7,4,4,4,444,Champions,VIP Loyalty Campaign
+CUST0431,140,2,22490.6,2,2,3,223,Hibernating,Come-Back Campaign
+CUST0432,29,12,104965.95,4,5,5,455,Champions,VIP Loyalty Campaign
+CUST0433,27,8,69286.35,4,5,4,454,Champions,VIP Loyalty Campaign
+CUST0434,35,8,209583.35,4,5,5,455,Champions,VIP Loyalty Campaign
+CUST0435,239,1,3724.2,1,1,1,111,Lost,Last-Chance Win-Back
+CUST0436,19,5,42095.7,4,4,4,444,Champions,VIP Loyalty Campaign
+CUST0437,107,2,5281.2,2,2,1,221,Hibernating,Come-Back Campaign
+CUST0438,89,8,208885.65,2,5,5,255,At Risk,Win-Back Campaign
+CUST0440,100,4,8539.9,2,3,2,232,Hibernating,Come-Back Campaign
+CUST0441,7,4,12984.25,5,3,2,532,Potential Loyalists,Second-Purchase Campaign
+CUST0442,110,3,65830.4,2,3,4,234,At Risk,Win-Back Campaign
+CUST0443,134,2,3603.75,2,2,1,221,Hibernating,Come-Back Campaign
+CUST0444,87,1,2209.0,2,1,1,211,Hibernating,Come-Back Campaign
+CUST0445,57,4,14920.349999999999,3,3,2,332,Needs Attention,Engagement Campaign
+CUST0446,36,15,60773.25,4,5,4,454,Champions,VIP Loyalty Campaign
+CUST0447,9,1,158462.85,5,1,5,515,New / Promising,Welcome-to-Loyalty Campaign
+CUST0448,193,4,27839.0,1,3,3,133,At Risk,Win-Back Campaign
+CUST0449,118,6,154676.0,2,4,5,245,At Risk,Win-Back Campaign
+CUST0450,98,4,36384.6,2,3,3,233,At Risk,Win-Back Campaign
