@@ -117,6 +117,10 @@ The RFM results were verified by comparing selected customer-level calculations 
 
 The application was also tested using an invalid customer ID to check error handling.
 
+## 📝 Report
+
+The final report contains the project methodology, results, campaign recommendations, verification, business recommendations, AI-use reflection and limitations.
+
 ## Project Deliverables
 
 This repository contains:
